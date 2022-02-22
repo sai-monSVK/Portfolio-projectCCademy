@@ -1,0 +1,33 @@
+In next second,
+
+4000 new stars will be born.
+30 stars will explode.
+16,000,000 litres of water will evaporate.
+Our Sun will burn 600 million tons of Hydrogen.
+Earth will travel 30km in space.
+Andromeda will get 110km closer to us.
+Universe will expand more than 14.8km.
+
+
+------------------------------------každých 5s-----------------------
+
+hviezdy zrod 2000 
+hviezdy zomretie 150
+cesta zem 150 000 m
+universe  74000 m
+
+
+--------------------------------------------------------
+
+For the time spent on this site,
+
+starsBorn new stars were born.
+starsDied stars exploded.
+Earth traveled earthTravelDistance(km) in space.
+Universe has expanded by more than universeExpandcount(km). 
+
+
+----------------------------------------------prevod velkých cisel-------------
+
+
+https://stackoverflow.com/questions/9461621/format-a-number-as-2-5k-if-a-thousand-or-more-otherwise-900
