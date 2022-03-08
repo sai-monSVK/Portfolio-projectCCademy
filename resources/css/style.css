@@ -75,6 +75,21 @@ html {
     font-weight: 400;
 }
 
+p#aside {
+    font-size: 0.9rem;
+    font-style: italic;
+    text-align: right;
+    margin-right: 10px;
+    margin-bottom: 15px;
+}
+
+footer {
+    display: block;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+}
+
 
 header {
     width: 100%;
@@ -165,6 +180,7 @@ main {
     background-color: #E0E1DD;
     border-radius: 10px;
     box-shadow: 5px 5px 5px 5px rgb(25 106 226 / 33%);
+    border: 3px solid #E0E1DD;
 }
 
 .img-container {
@@ -177,6 +193,8 @@ main {
     background-position: center;
     background-size: cover;
     border-radius: 10px 0px 0px 10px;
+    border-right: 3px solid #E0E1DD;
+    z-index: 1;
 }
 
 .portrait {
@@ -188,7 +206,7 @@ main {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    border-radius: 0px 10px 0px 0px;
+    border-radius: 0px 10px 10px 10px;
 }
 
 .js-box {
@@ -209,4 +227,36 @@ main {
     text-align: center;
     align-items: center;
     align-content: center;
+}
+
+p#textall {
+    margin: 20% 15px;
+    text-align: right;
+    text-shadow: 1px 1px white;
+}
+
+h2 {
+    font-size: 1.4rem;
+    font-style: italic;
+    margin: 10%;
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+    box-shadow: 3px 3px 3px 3px white;
+    margin-top: 20%;
+}
+h1 {
+    font-size: 3em;
+    color: purple;
+    text-align: left;
+    margin-top: 5%;
+    padding-left: 10px;
+}
+
+p#itsme {
+    font-size: 1.25rem;
+    text-align: end;
+    padding-right: 1em;
+    font-style: italic;
+    margin: 10px 0;
 }
