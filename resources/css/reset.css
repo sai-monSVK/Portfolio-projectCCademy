@@ -17,6 +17,15 @@ time, mark, audio, video {
     font-size: 100%;
     font: inherit;
     vertical-align: baseline;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3em;
+    color: purple;
+    text-align: left;
+    margin-top: 5%;
+    padding-left: 10px;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
